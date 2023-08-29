@@ -1,0 +1,10 @@
+* data - Data is a collection of facts, figures, or statistics that are processed and analyzed to derive insights and knowledge.
+* database - A database is an organized collection of data that can be easily accessed, managed, and updated.
+* ER Diagram - An ER diagram is a graphical representation of entities and their relationships to each other.
+* Normalization - Normalization is the process of organizing data in a database to reduce redundancy and dependency.
+* Denormalization - Creating a large table out of smaller normalized tables
+* case study
+  on ER diagram
+* case study on normalization
+* Dimension modeling (star and snowflake)
+* SCD
