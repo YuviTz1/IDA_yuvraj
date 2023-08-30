@@ -1,0 +1,23 @@
+* Overview of big data
+* 4 V's of data
+	- volume
+	- variety
+	- velocity
+	- veracity (uncertainity)
+* Batch processing
+* stream preocessing
+* Big data frameworks - spark, Hadoop 
+* Data warehouse - structured data, fixed schema, ACID properties
+* Data Lake - structured, semistructured and unstructured data
+* Data Lakehouse
+* Cloud computing basics
+	- private cloud
+	- public cloud
+	- hybrid cloud
+* Capital Expenditure - Upfront cost of physical infrastructure (value reduces over time)
+* Operational Expenditure - pay-as-you-go model
+* Azure fundamentals
+	- $ubscriptions
+	- Resource manager
+	- resource groups
+
