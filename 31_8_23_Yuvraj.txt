@@ -10,3 +10,4 @@
 	- creating tables and inserting data in them
 	- altering tables
 	- setting default and key constraints
+	- group by and having clause
