@@ -1,0 +1,12 @@
+* Azure SQL
+	- creating new resource
+	- Types of resources (databases, managed instances, Virtual machines)
+	- single database, elastic database
+	- configuring azure sql databse and server
+	- connecting to SQL database using userID and password
+	- getdate()
+	- Views and schemas
+	- drop, truncate and delete commands
+	- creating tables and inserting data in them
+	- altering tables
+	- setting default and key constraints
