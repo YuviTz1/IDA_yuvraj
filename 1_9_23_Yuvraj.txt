@@ -1,0 +1,11 @@
+* creating elastic pool in Azure SQL
+* Subqueries
+* Self join, Cross Join
+* stored procedures
+* Views
+* Functions
+	- Scalar Functions
+	- Table valued Functions
+* temp tables
+* Union, intersection, Union All
+* indexing
