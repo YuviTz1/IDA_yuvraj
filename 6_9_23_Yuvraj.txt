@@ -1,0 +1,25 @@
+* Azure Data factory pipelines
+	- Variable types
+	- Activities
+	- Append variable (only for arrays)
+	- Delete	
+	- Execute pipeline
+	- Fail
+	- Get Metadata
+	- Lookup
+	- Stored Procedure
+	- Script
+	- Web
+	- WebHook
+	- Wait
+* Create Pipeline to copy data from one container to another
+* Parameterized Pipeline for copying data from one container to another
+* Monitoring pipeline runs
+* Triggers
+	Triggers in Azure Data Factory are processing units that determine when to start or stop a pipeline execution
+	- Schedule Trigger is used to invoke pipeline at a specific time. We can specify the start and end date, the time zone, the frequency, and the interval of the trigger
+	- Tumbling window trigger is a trigger that executes a pipeline on a periodic interval, while also retaining the state of the previous executions. We can specify the size, frequency, offset, and delay of the tumbling window
+	- Event based triggers run a pipeline in response to a foreign event. Storage event trigger run a pipeline in response to an event in storage account
+	
+	
+	
