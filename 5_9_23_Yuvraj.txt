@@ -1,0 +1,20 @@
+* Data Factory
+	- Shared Access Signature	(Time Bounded)
+	- Access Keys	(Permanent)
+* Key Vault
+	- Secrets
+	- Identity and Access management
+	- RBAC
+* Azure data factory
+	- Extract, Load, transform
+	- Extract, Transform, Load
+	- Extraction and loading tool
+	- Databricks for complicated transformations
+	- activities
+	- Integration Runtime
+		- Auto resolved
+		- self hosted
+		- Azure SSIS
+* Creating pipelines
+
+	
